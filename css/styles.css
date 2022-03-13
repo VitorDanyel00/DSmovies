@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6{
 
 html, body{
   /*backgroud - Gradient*/
-  background: -webkit-gradient(linear, left top, right bottom , from(black), to(red) );
+  background: -webkit-gradient(linear, left top, right bottom , from(red), to(rgb(89, 5, 100)) );
 }
 
 header{
